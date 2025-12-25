@@ -16,8 +16,8 @@ Both repositories are publicly available on GitHub.
 Spring Boot backend responsible for APIs, authentication, and messaging logic.
 
 👉 Backend GitHub Link:  
-https://github.com/sksjanibaba/messaging-app-backend  
-(🔁 replace with your actual backend repo link if different)
+https://github.com/sksjanibaba/messaging-app.git
+
 
 ---
 
@@ -25,8 +25,8 @@ https://github.com/sksjanibaba/messaging-app-backend
 Frontend application responsible for user interface and interaction.
 
 👉 Frontend GitHub Link:  
-https://github.com/sksjanibaba/messaging-app-frontend  
-(🔁 replace with your actual frontend repo link)
+https://github.com/sksjanibaba/messaging-app-frontened
+
 
 ---
 
@@ -61,7 +61,4 @@ git clone <https://github.com/sksjanibaba/messaging-app.git>
 cd backend
 mvn spring-boot:run
 
-### frontend
-git clone <>
-cd frontend
-open index.html
+
